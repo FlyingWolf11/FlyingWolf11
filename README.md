@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in coding and video games
 - 🌱 I’m currently learning coding and video game making
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Discord with FlyingWolf#0943
+- 📫 Reach me on Discord with FlyingWolf#0943
 
 <!---
 FlyingWolf11/FlyingWolf11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
